@@ -1,0 +1,23 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "text": "Daughters Birthday",
+            "day": "September 1st",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "Meeting at Work",
+            "day": "September 3rd at 1:30pm",
+            "reminder": true
+        },
+        {
+            "id": 3,
+            "text": "Test at School",
+            "day": "September 5th at 12:00pm",
+            "reminder": false
+        }
+        
+    ]
+} 
